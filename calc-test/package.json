@@ -1,0 +1,13 @@
+{
+  "name": "calc-test",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  }
+}
